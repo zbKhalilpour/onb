@@ -82,8 +82,6 @@ Navigate to the following path in your engine file browser:
 
 https://{your-domain}/fscloud/files/data/uibuilder/{your-uibuilder-url}/src/
 
-yaml
-Copy code
 
 Inside the uibuilder directory, locate the folder named after the URL path set in the uibuilder node (e.g., `/partnerOnboarding`).  
 Enter this folder and open the `src` subdirectory — this contains your front-end source files.
