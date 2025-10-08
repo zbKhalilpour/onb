@@ -33,7 +33,7 @@ Locate the **MongoDB node** used in the ✅ **0 Integration Flow** (or any other
 Before deploying the flow, open the MongoDB node, click the pencil icon next to the connection field, and fill in the following parameters:
 
 Username: `yourUsername` <br>
-Password: `yourPassword123` <br>
+Password: `yourPassword` <br>
 Host: `mongodb+srv://your-cluster.mongodb.net` <br>
 Database: `yourDatabaseName`
 
