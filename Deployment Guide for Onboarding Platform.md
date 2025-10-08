@@ -32,10 +32,10 @@ Make sure it does not conflict with other HTTP paths.
 Locate the **MongoDB node** used in the ✅ **0 Integration Flow** (or any other MongoDB node).  
 Before deploying the flow, open the MongoDB node, click the pencil icon next to the connection field, and fill in the following parameters:
 
-Username: `doadmin` <br>
-Password: `6ly2AV0pP37941mY` <br>
-Host: `mongodb+srv://db-mongodb-leanea-f9f0367b.mongo.ondigitalocean.com` <br>
-Database: `admin`
+Username: `yourUsername` <br>
+Password: `yourPassword123` <br>
+Host: `mongodb+srv://your-cluster.mongodb.net` <br>
+Database: `yourDatabaseName`
 
 
 
